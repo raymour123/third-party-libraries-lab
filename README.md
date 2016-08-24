@@ -1,3 +1,14 @@
+RXJava appears to be a more efficient and less verbose way to create code that runs on various threads. It is reactive code that uses "observables" and "subscribers"... It is something that I would use to replace traditional code that was being run as an AsyncTask. 
+
+
+
+
+
+
+
+
+
+
 ---
 title: Third Party Libraries
 type: lab
